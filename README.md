@@ -1,6 +1,6 @@
 # flutter_cosas
 
-A new Flutter project.
+This project contains elements that are used in Flutter.
 
 ## Getting Started
 
